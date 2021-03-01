@@ -1,0 +1,16 @@
+{
+  "id": "2116182",
+  "name": "图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13381485",
+      "name": "网易云",
+      "font_class": "wangyiyun",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

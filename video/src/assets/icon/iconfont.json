@@ -1,0 +1,65 @@
+{
+  "id": "2116182",
+  "name": "图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12974270",
+      "name": "mv",
+      "font_class": "mv",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7549348",
+      "name": "搜索",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "3282808",
+      "name": "美团",
+      "font_class": "meituan",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6876129",
+      "name": "天猫",
+      "font_class": "tianmao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8871110",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12260739",
+      "name": "美团",
+      "font_class": "meituan1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12494584",
+      "name": "支付宝",
+      "font_class": "umidd17",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "13381485",
+      "name": "网易云",
+      "font_class": "wangyiyun",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
